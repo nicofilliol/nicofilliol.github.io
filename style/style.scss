@@ -160,3 +160,38 @@ nav {
 .card-footer {
     margin-top: auto;
   }
+
+.table-nonfluid {
+    width: 95%;
+    margin:0 auto;
+ }
+
+ .text-muted-small {
+     font-size: 14px;
+     font-weight: 300;
+     color: gray;
+ }
+
+ span.avoidwrap { 
+     display:inline-block; 
+    }
+
+a.download:hover{
+    text-decoration: none;
+}
+
+caption {
+    text-align:right;
+    font-size: 10px;
+    font-weight: 200;
+    color: gray;
+    //padding-right: 10px;
+}
+
+// .dropdown:hover > .dropdown-menu {
+//     display: block;
+// }
+// .dropdown > .dropdown-toggle:active {
+//     /*Without this, clicking will make it sticky*/
+//     pointer-events: none;
+// }
